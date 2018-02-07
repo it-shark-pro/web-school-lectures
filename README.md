@@ -2,4 +2,4 @@
 
 ## Topics
 
-* [Introduction (How browsers work)](https://github.com/it-shark-pro/fe-school-lectures/docs/hbw.md)
+* [Introduction (How browsers work)](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/hbw.md)
