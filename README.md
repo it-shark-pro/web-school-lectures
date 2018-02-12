@@ -1,6 +1,8 @@
 # Web School Lectures
 
-### [Final Projects](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
+## Practis
+* [Javascript Assignments](https://github.com/it-shark-pro/js-assignments)
+* [Final Projects](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
 
 ## Topics
 
