@@ -1,5 +1,7 @@
 # Web School Lectures
 
+### [Темы финальных проектов](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
+
 ## Topics
 
 * [Introduction (How browsers work)](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/hbw.md)
