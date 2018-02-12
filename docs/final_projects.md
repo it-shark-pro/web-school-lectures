@@ -25,42 +25,42 @@
 
 
 ## Faceted E-Commerce Search
-![Faceted ecommerce](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/ecommerce.jpg)
+![Faceted ecommerce](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/ecommerce.jpg)
 
 Приложение для поиска товаров. Должна быть страница поиска товаров с многочисленными фасетами (как пример http://catalog.onliner.by/notebook ). Фасеты (критерии поиска) и данные должны приходить с бекенда и фронтенд приложение должно отрисовывать критерии поиска и данные на странице. При клике на товар - показать детальную страницу с товаром. Высший пилотаж - добавить возможность сравнения нескольких товаров. Данные по товарам можно взять например тут: http://www.ozon.ru/context/partner_xml/ и перегнать в свою базу данных. Желательно чтобы в базе было как минимум 5000 товаров.
 
 
 ## Survey Forms
-![Survey Forms](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/forms.png)
+![Survey Forms](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/forms.png)
 
 Приложение для формирования форм опросов. Аналог Google Forms. Пользователь может быстро сформировать в приложении список вопросов с несколькими типами ответов (просто текст, выбор из нескольких вариантов, выбор из одного варианта), предусмотреть редактирование такой формы. Потом форму можно опубликовать и собирать данные о ответах. Ответы можно показать просто в виде таблицы, а можно с помощью графиков. Каждый пользователь может создавать несколько форм. Данные о формах и ответах должны храниться на сервере.
 
 
 ## Messenger
-![Messenger](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/messenger.png)
+![Messenger](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/messenger.png)
 
 Простейшее приложение для коммуникации типа чата. Пользователи подключаются и имеют возможность передавать сообщения как в общий чат, так и лично друг другу. Хранить историю сообщений - по желанию. Дополнительно можно добавить возможность постить картинки.
 
 ## Новости
-![Новости(https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/news.png)
+![Новости(https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/news.png)
 
 Приложение для поиска новостей, статей, изображений и других метаданных из Google News. Добавить возможность комментировать новости и помещать в избранные. В качестве API можно использовать:
 https://newsapi.org/s/google-news-api
 
 ## RSS Reader
-![RSS Reader](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/rss reader.png) 
+![RSS Reader](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/rss reader.png)
 
 Приложение для чтения ленты rss. Пользователь может добавить (редактировать) несколько rss лент, сгруппировать их по темам. При открытии темы должен показываться список всех новостей из всех соответствующих этой теме лент в общем хронологическом порядке. При клике на новость - новость должна открыться. Настройки пользователя должны храниться на бекенде, аггрегация лент - по желанию, можно в браузере, можно на сервере, надо будет потом обосновать свое решение.
 
 
 ## Stock Data
-![Stock Data](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/stock.png)
+![Stock Data](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/stock.png)
 
 Приложение для мониторинга биржевых данных. Надо найти готовый API (сайт или веб-сервис), который предоставляет такие бесплатные данные. Пользователь может редактировать список любимых тикеров (типа GOOGL, AAPL, FB и тд), тикеры .DJI (индекс Доу-Джонсона) и .IXIC (NASDAQ Composite) должны отображаться всегда. В идеале по каждому тикеру график котировок для любой период (по умолчанию - за послений месяц) и последние новости.  Пользователь может устанавливать оповещения, если какой-то тикер выходит из заранее заданного интервала. 
 Данные о пользовательских настройках должны храниться на сервере, аггрегация/парсинг биржевых данных - на клиенте или на сервере, нужно обосновать свое решение.
 
 
 ## Movie DB
-![Movie DB](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/movie.png)
+![Movie DB](https://github.com/it-shark-pro/fe-school-lectures/blob/master/docs/images/movie.png)
 
 Приложение - энциклопедия фильмов. Фильмы можно искать по жанрам, году выпуска, режиссеру, артистам и тд. При клике в странице поиска на фильме - показать полную информацию, трейлер будет плюсом. Пользователи могут оценивать каждый фильм (ставить рейтинг) и добавлять рецензию. Базу фильмов можно взять с [imdb](http://www.imdb.com/interfaces) или [кинопоиска](http://kinopoisk.cf/), можно взять c рутрекера (там есть готовая база торрентов по фильмам), а можно найти какой-нибудь готовый веб-сервис с этой информацией и использовать только API.
