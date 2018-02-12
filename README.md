@@ -1,4 +1,4 @@
-# fe-school-lectures
+# Web School Lectures
 
 ## Topics
 
