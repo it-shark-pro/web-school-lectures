@@ -1,12 +1,3 @@
-https://www.uplabs.com/posts/social-fitness-posts-challenges-chat
-
-https://www.uplabs.com/posts/news-feed-social-network-concept-template
-
-
-https://www.uplabs.com/posts/geolocation-based-user-profile-with-map-integratio
-
-https://www.uplabs.com/posts/web-app-part-i
-
 # Темы финальных проектов
 Основное требование к финальным проектам - это небольшое SPA (Single Page Application) веб-приложение с опрятным и чистым дизайном. Использование фреймворков типа React или Vue обязательное. 
 
