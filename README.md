@@ -1,6 +1,6 @@
 # Web School Lectures
 
-### [Темы финальных проектов](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
+### [Final Projects](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
 
 ## Topics
 
