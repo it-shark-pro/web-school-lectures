@@ -12,7 +12,7 @@
 * использовать JavaScript
 * использовать css фреймворки
 
-### Разрешено
+## Разрешено
 
 * использовать шрифты, иконки, картинки ([fontawesome](https://fontawesome.com/), [icomoon](https://icomoon.io/))
 * использовать css pre\post processors
