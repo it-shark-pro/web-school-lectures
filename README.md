@@ -1,6 +1,7 @@
 # Web School Lectures
 
 ## Practis
+* [HTML+CSS Homework](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/HTMLCSSHomework.md)
 * [Javascript Assignments](https://github.com/it-shark-pro/js-assignments)
 * [Final Projects](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/final_projects.md)
 
