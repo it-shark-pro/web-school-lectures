@@ -14,7 +14,7 @@
 * scopes, hoisting
 * functions, dynamic scopes
 * prototype, inheritance
-* asyncrhronious model
+* asynchronous model
 * DOM and DOM events
 * AJAX, Fetch, WebSockets
 * Modern Javascript
