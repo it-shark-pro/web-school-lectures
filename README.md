@@ -9,10 +9,10 @@
 
 ### JS course
 
-* How Browsers Work
-* HTTP protocol
-* scopes, hoisting
-* functions, dynamic scopes
+* [How Browsers Work](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/HowBrowsersWork.md)
+* [HTTP protocol](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/HTTPProtocol.md)
+* [Scopes, hoisting](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/ScopesHoisting.md)
+* [Functions](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/Functions.md)
 * prototype, inheritance
 * asynchronous model
 * DOM and DOM events
