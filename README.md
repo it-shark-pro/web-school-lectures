@@ -11,8 +11,8 @@
 
 * [How Browsers Work](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/HowBrowsersWork.md)
 * [HTTP protocol](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/HTTPProtocol.md)
-* [Scopes, hoisting and closures](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/ScopesHoisting.md)
-* functions, dynamic scopes
+* [Scopes, hoisting](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/ScopesHoisting.md)
+* [Functions](https://github.com/it-shark-pro/web-school-lectures/blob/master/docs/links/Functions.md)
 * prototype, inheritance
 * asynchronous model
 * DOM and DOM events
